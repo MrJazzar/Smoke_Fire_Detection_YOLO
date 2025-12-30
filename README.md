@@ -26,8 +26,4 @@ The system can be used for early fire detection in surveillance and safety syste
   - Smoke
 - Trained using transfer learning on pre-trained YOLO weights
 
-## 🚀 How to Run
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/USERNAME/Smoke_Fire_Detection_YOLO.git
